@@ -7,11 +7,11 @@
 - 🤝 Open to collaborating on full-stack or Spring Boot projects.
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, Kotlin, SQL  
+- **Languages:** Java, C++, JavaScript, SQL  
 - **Frontend Development:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
 - **Backend Development:** Node.js, Express.js, Java, Spring, Spring Boot  
 - **Databases:** Firebase Realtime Database, MySQL, MongoDB  
-- **Developer Tools & Platforms:** IntelliJ IDEA, VS Code, Git & GitHub, Postman, Thunder Client, Trello  
+- **Developer Tools & Platforms:** IntelliJ IDEA, VS Code, Git & GitHub, Postman, Thunder Client  
 - **Other Skills:** REST APIs, JSON, Responsive Web Design, Git Version Control, Deployment (Vercel, Netlify)
 
 ## 🤝 Connect with Me
