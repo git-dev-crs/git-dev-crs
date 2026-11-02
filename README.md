@@ -1,20 +1,22 @@
+
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              MOHIT JATAV — GitHub Profile README              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohit+Jatav+%F0%9F%91%8B;Full-Stack+Engineer+%7C+MERN+Stack;WebRTC+%26+Real-Time+Systems+Builder;700%2B+DSA+Solved+%7C+LeetCode+Top+10%25;Open+to+SDE+%2F+Full-Stack+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+# Hi, I'm Mohit Jatav 👋
+### Open to SDE / Full-Stack Roles 🚀
 
 <br/>
 
-<!-- Availability Badge -->
-<img src="https://img.shields.io/badge/Status-Open%20to%20SDE%20Roles-%2322c55e?style=for-the-badge&logo=circle&logoColor=white" />
+<!-- Availability Badges -->
+[![Status](https://img.shields.io/badge/Status-Open%20to%20SDE%20Roles-%2322c55e?style=for-the-badge&logo=circle&logoColor=white)](#-what-im-looking-for)
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Indore%2C%20MP%2C%20India-%23f43f5e?style=for-the-badge&logo=googlemaps&logoColor=white" />
+[![Location](https://img.shields.io/badge/Location-Indore%2C%20MP%2C%20India-%23f43f5e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Indore,Madhya+Pradesh)
 &nbsp;
-<img src="https://img.shields.io/badge/Portfolio-Live-%233b82f6?style=for-the-badge&logo=vercel&logoColor=white" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-%233b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-phi-azure-69.vercel.app/)
 
 </div>
 
