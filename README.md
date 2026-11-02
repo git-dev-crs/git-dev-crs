@@ -62,7 +62,7 @@ const mohit: Developer = {
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-mohitjatav326-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitjatav326@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-%233b82f6?style=for-the-badge&logo=react&logoColor=white)](https://git-dev-crs.github.io/My-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-%233b82f6?style=for-the-badge&logo=react&logoColor=white)](https://my-portfolio-phi-azure-69.vercel.app/)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-Top%2010%25%20%7C%201714-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MohitJ111/)
 &nbsp;
