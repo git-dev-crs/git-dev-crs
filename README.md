@@ -1,82 +1,226 @@
-<h1 align="center">Hi, I'm Mohit Jatav 👋</h1>
-<h3 align="center">Full-Stack Developer (MERN) | Building real-time, scalable web applications</h3>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              MOHIT JATAV — GitHub Profile README              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohit-jatav-6819a0260/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mohitjatav326@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://mohit-portfolio-teal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Top%2010%25-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
-</p>
+<div align="center">
 
----
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohit+Jatav+%F0%9F%91%8B;Full-Stack+Engineer+%7C+MERN+Stack;WebRTC+%26+Real-Time+Systems+Builder;700%2B+DSA+Solved+%7C+LeetCode+Top+10%25;Open+to+SDE+%2F+Full-Stack+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 
-### 🚀 About Me
+<br/>
 
-- 🎓 Computer Engineering graduate from **IET, DAVV Indore** (CGPA: 7.66)
-- 💻 Full-stack developer with hands-on experience across the **MERN stack**, real-time systems (WebRTC, Socket.io), and modern dev tooling (Docker, Kubernetes)
-- 🧠 Solved **500+ DSA problems** and **50+ SQL problems**, rated **1714 on LeetCode (top 10%)**
-- ☁️ Oracle Cloud Infrastructure 2025 **AI Foundations Associate** certified
-- 🌱 Currently exploring AI-integrated developer tooling and scalable backend architecture
-- 🤝 Open to **SDE / Full-Stack roles** and collaborative open-source work
+<!-- Availability Badge -->
+<img src="https://img.shields.io/badge/Status-Open%20to%20SDE%20Roles-%2322c55e?style=for-the-badge&logo=circle&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Indore%2C%20MP%2C%20India-%23f43f5e?style=for-the-badge&logo=googlemaps&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Portfolio-Live-%233b82f6?style=for-the-badge&logo=vercel&logoColor=white" />
 
----
-
-### 🛠️ Tech Stack
-
-**Languages:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Material UI](https://img.shields.io/badge/-Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-
-**Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-**Databases:** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Tools & DevOps:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</div>
 
 ---
 
-### 🔥 Featured Projects
+## 🚀 About Me
 
-#### 🎥 [Fliqq — Real-Time Video Calling App](https://github.com/git-dev-crs/Fliqq-Video-call)
-`React` `WebRTC` `Socket.io` `Node.js` `Express` `Material UI` `Gemini AI`
-- Engineered a real-time video conferencing engine achieving **sub-200ms latency** for peer-to-peer streaming
-- Increased connection reliability by **40%** via multi-STUN-server integration
-- Built a scalable Node.js signaling server supporting concurrent sessions across Desktop and Android with **100% cross-platform compatibility**
-- Reduced onboarding time by **15 seconds** with a streamlined guest/Google-auth flow and responsive PIP UI
+```typescript
+const mohit: Developer = {
+  name:        "Mohit Jatav",
+  title:       "Full-Stack Engineer (MERN) · WebRTC Specialist",
+  education:   "B.E. Computer Engineering — IET-DAVV, Indore (CGPA: 7.66)",
+  location:    "Indore, Madhya Pradesh 🇮🇳",
+  openTo:      ["SDE Roles", "Full-Stack Engineering", "Backend Engineering"],
 
-#### 📚 [Interview-Prep](https://github.com/git-dev-crs/Interview-Prep)
-`React.js` `Tailwind` `Node.js` `Express` `MongoDB` `Claude` `GPT Flash`
-- Built a full-stack platform delivering tailored DSA practice paths via skill assessments, boosting user engagement by **50%**
-- Authored **100+ advanced CS fundamentals** interview questions, improving assessment accuracy by **30%**
-- Designed scalable backend services (Express/Node/MongoDB) and a revamped React + Tailwind front end for better retention
+  tech: {
+    languages:  ["Java", "JavaScript (ES6+)", "C++", "Python", "SQL"],
+    frontend:   ["React.js", "Redux", "Tailwind CSS", "Material UI", "Vite"],
+    backend:    ["Node.js", "Express.js", "WebRTC", "Socket.io", "FastAPI"],
+    databases:  ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
+    devOps:     ["Docker", "Kubernetes", "AWS", "Git", "GitHub", "Render"],
+    ai:         ["Gemini AI", "Claude AI", "Oracle Agentic AI", "Stitch API", "Slack Webhooks"],
+  },
 
----
+  highlights: [
+    "⚡ Built real-time P2P video engine with sub-200ms latency using WebRTC + Socket.io",
+    "🧩 Solved 700+ DSA problems | LeetCode Rating: 1714 (Top 10% globally)",
+    "🏆 Global Rank 985 — LeetCode Weekly Contest 446",
+    "📜 Oracle Agentic AI Certified | Oracle OCI 2025 AI Certified",
+    "🏦 Completed JPMorgan Chase & Deloitte Job Simulations (Forage)",
+  ],
 
-### 🏆 Achievements
-
-- 🥇 **1714 rating** on LeetCode — **top 10%** globally
-- ✅ **500+ DSA problems** and **50+ SQL problems** solved on LeetCode; **700+** across all platforms
-- 🌍 **Global Rank 985** — LeetCode Weekly Contest 446
-- ☁️ Oracle Cloud Infrastructure 2025 **AI Foundations Associate**
-- 💼 Completed the **Deloitte Technology Job Simulation** (Forage)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=git-dev-crs&show_icons=true&theme=default&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-dev-crs&theme=default" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-dev-crs&layout=compact&theme=default" />
-</p>
+  currentFocus: "Building AI-integrated scalable full-stack systems",
+  funFact:      "I debug with console.log AND actually read the stack trace 🔍",
+};
+```
 
 ---
 
-### 📫 Let's Connect
+## 🔗 Connect With Me
 
-📧 **mohitjatav326@gmail.com** &nbsp;|&nbsp; 📍 Indore, M.P. &nbsp;|&nbsp; 📱 +91-7489417866
+<div align="center">
 
-<p align="center"><i>Open to Full-Stack / SDE opportunities — always happy to talk about MERN, real-time systems, or DSA.</i></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Jatav-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-jatav/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-mohitjatav326-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitjatav326@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-%233b82f6?style=for-the-badge&logo=react&logoColor=white)](https://git-dev-crs.github.io/My-Portfolio/)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top%2010%25%20%7C%201714-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MohitJ111/)
+&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-%2322c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16yk46GcQKBO4qmTAvPaCmvU5wj8aqM7M/view?usp=sharing)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-%230081CB?style=flat-square&logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend & Real-Time**
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=flat-square&logo=express&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-%23333333?style=flat-square&logo=webrtc&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-%23010101?style=flat-square&logo=socketdotio&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| 🎥 **[Fliqq — Real-Time Video Calling](https://github.com/git-dev-crs/Fliqq)** | React · WebRTC · Socket.io · Node.js · Gemini AI | ⚡ Sub-200ms P2P latency · 40% better reliability · Cross-platform |
+| 🧠 **[Interview-Prep AI Platform](https://github.com/git-dev-crs/Interview-Prep)** | React · Tailwind · Node.js · MongoDB · Claude AI | 📈 +50% engagement · 100+ CS modules · Personalized DSA paths |
+| 📊 **[Financial UI Dashboard](https://github.com/git-dev-crs/Financial-UI-dashboard)** | React · Recharts · Tailwind · REST APIs | 💹 Real-time charts · Glassmorphism UI · Portfolio analytics |
+| 💳 **[Payment Gateway Integration](https://github.com/git-dev-crs/Payment-Integration)** | Node.js · Stripe API · Express · MongoDB | 🔒 Secure webhooks · Multi-currency · Cryptographic verification |
+| 📈 **[Zerodha Trading Clone](https://github.com/git-dev-crs/Zerodha-Clone)** | React · WebSockets · Docker · Render | 🐳 Containerized · Real-time tickers · Order management |
+
+</div>
+
+---
+
+## 🏆 Achievements & Coding Stats
+
+<div align="center">
+
+| 🏅 Achievement | 📊 Result |
+|---------------|-----------|
+| LeetCode Contest Rating | **1714** — Top 10% Globally |
+| Global Contest Rank | **#985** — LeetCode Weekly Contest 446 |
+| DSA Problems Solved | **700+** across LeetCode, CodeChef & more |
+| SQL Problems Solved | **50+** on LeetCode |
+| Oracle Agentic AI | **Certified** — July 2026 (Valid till 2028) |
+| Oracle OCI 2025 AI | **Certified** — Lifetime Recognition |
+| JPMorgan Chase Simulation | **Completed** — Kafka · REST API · H2 DB (Forage) |
+| Deloitte Tech Simulation | **Completed** — Enterprise Software Engineering (Forage) |
+| GitHub Contributions | **244+** in the last 12 months |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=git-dev-crs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-dev-crs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=git-dev-crs&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=git-dev-crs&theme=tokyo-night&hide_border=true&area=true&area_color=3b82f6" />
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Badge | Certification | Issuer | Year |
+|-------|--------------|--------|------|
+| 🔴 | **Oracle Agentic AI Certified Foundations Associate** | Oracle Corporation | 2026 |
+| 🟠 | **Oracle Cloud Infrastructure 2025 AI Foundations Associate** | Oracle Corporation | 2025 |
+| 🔵 | **JPMorgan Chase Software Engineering Job Simulation** | JPMorgan Chase & Co. (Forage) | 2025 |
+| 🟢 | **Deloitte Technology Job Simulation** | Deloitte (Forage) | 2025 |
+
+</div>
+
+---
+
+## 🎯 What I'm Looking For
+
+> 💼 **Actively seeking SDE / Full-Stack Engineer roles** where I can build scalable, real-world web products.
+>
+> I thrive in environments that value clean code, fast delivery, and engineering that makes a real user impact.
+>
+> 📍 Indore, M.P. · Open to Remote / Hybrid / Relocation
+
+---
+
+<div align="center">
+
+### 📬 Let's Connect — I respond within 24 hours!
+
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohit-jatav/)
+&nbsp;
+[![Email](https://img.shields.io/badge/-Send%20an%20Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitjatav326@gmail.com)
+&nbsp;
+[![Resume](https://img.shields.io/badge/-Download%20Resume-%2322c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16yk46GcQKBO4qmTAvPaCmvU5wj8aqM7M/view?usp=sharing)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=git-dev-crs&label=Profile+Views&color=3b82f6&style=flat-square)
+
+<br/>
+
+*"Code is like humor — when you have to explain it, it's bad."*
+
+⭐ **Star repos you find useful — it keeps me motivated!**
+
+</div>
